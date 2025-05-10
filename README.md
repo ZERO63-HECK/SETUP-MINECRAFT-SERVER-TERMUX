@@ -15,4 +15,5 @@ Selamat datang di **Minecraft Server Setup Tools**, alat yang memudahkan kamu un
    Kamu bisa mengunduh dan menjalankan script dari GitHub menggunakan `curl`:
 
    ```bash
-   curl -sL https://raw.githubusercontent.com/username/repository-name/branch-name/setup_mc_full.sh | bash
+   curl -sL curl -sL https://raw.githubusercontent.com/ZERO63-HECK/SETUP-MINECRAFT-SERVER-TERMUX/main/server-setup.sh | bash
+ 
