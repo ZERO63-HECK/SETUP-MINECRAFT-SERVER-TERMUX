@@ -1,19 +1,20 @@
-# Minecraft Server Setup Tools
+# Minecraft Server Setup for Termux
 
-Selamat datang di **Minecraft Server Setup Tools**, alat yang memudahkan kamu untuk menginstal dan mengonfigurasi server Minecraft langsung di terminal.
+Selamat datang di repository **Minecraft Server Setup** untuk **Termux**. Repository ini menyediakan script untuk membantu Anda menyiapkan dan menjalankan server Minecraft di perangkat Android Anda menggunakan Termux.
 
-## Fitur
-- Instalasi berbagai jenis server Minecraft: PaperMC, Vanilla, Purpur
-- Pilih versi Minecraft yang diinginkan
-- Instalasi otomatis JDK jika diperlukan
-- Panduan langkah demi langkah untuk pengaturan server
+## Prasyarat
 
-## Cara Menggunakan
+Sebelum memulai, pastikan Anda telah menginstal **Termux** di perangkat Android Anda. Anda dapat mengunduh **Termux** dari **Google Play Store** atau dari [repositori F-Droid](https://f-droid.org/packages/com.termux/).
 
-1. **Clone atau Unduh Script:**
+Anda juga memerlukan **Git** untuk meng-clone repository ini dan **Bash** untuk menjalankan script.
 
-   Kamu bisa mengunduh dan menjalankan script dari GitHub menggunakan `curl`:
+## Instalasi
 
-   ```bash
-   curl -sL curl -sL https://raw.githubusercontent.com/ZERO63-HECK/SETUP-MINECRAFT-SERVER-TERMUX/main/server-setup.sh | bash
- 
+Untuk memulai dengan pengaturan server, ikuti langkah-langkah berikut:
+
+### 1. Clone Repository
+
+Buka **Termux** dan jalankan perintah berikut untuk meng-clone repository:
+
+```bash
+git clone https://github.com/ZERO63-HECK/SETUP-MINECRAFT-SERVER-TERMUX.git
