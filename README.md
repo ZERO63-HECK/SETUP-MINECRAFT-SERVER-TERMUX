@@ -18,3 +18,6 @@ Buka **Termux** dan jalankan perintah berikut untuk meng-clone repository:
 
 ```bash
 git clone https://github.com/ZERO63-HECK/SETUP-MINECRAFT-SERVER-TERMUX.git
+cd SETUP-MINECRAFT-SERVER-TERMUX
+bash server-setup.sh
+
